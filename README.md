@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full stack developer
 --------------------
 
-I've been learning to code since 2021... At the same time, i've been studying psychology career. At the code, I have some knowledge both frontend and backend, and i'm so excited to still learning...
+I've been learning to code since 2021... At the same time, i've been studying the psychology career. At the code, I have some knowledge both frontend and backend, and i'm so excited to still learning...
 
 * 🌍  I'm based in Argentina
 * ✉️  You can contact me at [bautielias01@gmail.com](mailto:bautielias01@gmail.com)
